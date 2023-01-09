@@ -1,33 +1,8 @@
-# Watchface web editor
+# 表盘在线编辑器
 
-A web editor for huami bin watchfaces
+一款在线编辑华米系列手表表盘的工具
 
-Try it here: https://watchface-web-editor.vercel.app/
-
-## Get started
-
-Install the dependencies...
-
-```bash
-npm install
-```
-
-...then start the dev server
-
-```bash
-npm run dev
-```
-
-And navigate to [localhost:5000](http://localhost:5000)
+试一逝: https://watchface-web-editor.rth1.one
 
 
-## Tests
-
-Run tests with
-
-```bash
-npm test
-```
-
-
-
+[访问原文](https://github.com/Nadeflore/watchface-web-editor)
